@@ -1,8 +1,12 @@
 # Bolt Gameserver Sample
 
-<div align="center" style="display:flex;justify-content:center;margin-bottom:20px;padding-top: 2rem;background-color:black;">
-  <img src="https://www.bolt.com/assets/images/components/FooterCallout/callout-rebrand-lightning.svg" alt="Bolt Charge Hero" height="250px">
-</div>
+<table width="100%">
+	<tr>
+		<td  bgcolor="#000000"  align="center"  style="padding: 2rem;">
+			<img  src="https://www.bolt.com/assets/images/components/FooterCallout/callout-rebrand-lightning.svg"  alt="Bolt Charge Hero"  height="250px">
+		</td>
+	</tr>
+</table>
 
 <br>
 
